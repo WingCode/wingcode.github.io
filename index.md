@@ -28,6 +28,7 @@ Welcome to the summary page of UnitaryHack and QHack contributions. Here you wil
 | [Add a command line switch to display sparse matrices with periods (.) replacing zero elements (0).](https://github.com/dde/qqcs/issues/18)      | [#19](https://github.com/dde/qqcs/pull/19) | 
 
 ### [QHack 2022](https://qhack.ai/)
+
 | Prize                                                         | Repo                                           | 
 | -------------                                                 |:-------------:                                         |
 | [Quantum Entrepreneurship Challenge honorary 3rd place](https://medium.com/xanaduai/qhack-2022-cb5ad92573e2) | [Finds potential scammer customers in a banking domain graph using clique by using QAOA and Goemans-Williamson algorithm using IBM Qiskit](https://github.com/WingCode/quantum-scam-finder) | 
