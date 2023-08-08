@@ -6,6 +6,7 @@ Welcome to the summary page of UnitaryHack and QHack contributions. Here you wil
 
 
 ### [UnitaryHack 2022 bounties](https://unitaryhack.dev/bounties/)
+
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
 | [Error when parsing electron positional arguments in workflows](https://github.com/AgnostiqHQ/covalent/issues/441)      | [#663](https://github.com/AgnostiqHQ/covalent/pull/663) |
@@ -20,6 +21,7 @@ Welcome to the summary page of UnitaryHack and QHack contributions. Here you wil
 | [Automatize docstrings types](https://github.com/pasqal-io/Pulser/issues/359)      | [#376](https://github.com/pasqal-io/Pulser/pull/376) |
 
 ### [UnitaryHack 2021 bounties](https://unitaryfund.github.io/unitaryhack/results.html)
+
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
 | [ffmpeg command from User Guide gives an error](https://github.com/qutip/qutip/issues/799)      | [#1558](https://github.com/qutip/qutip/pull/1558) | 
