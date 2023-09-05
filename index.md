@@ -14,8 +14,9 @@ Welcome to the summary page of UnitaryHack and QHack contributions. Here you wil
 | [Determine if covalent subprocess starts successfully](https://github.com/AgnostiqHQ/covalent/issues/1648)      | [#1677](https://github.com/AgnostiqHQ/covalent/pull/1677) |
 | [Support task cancellation](https://github.com/AgnostiqHQ/covalent-awsbatch-plugin/issues/76)      | [#78](https://github.com/AgnostiqHQ/covalent-awsbatch-plugin/pull/78) |
 | [Support task cancellation](https://github.com/AgnostiqHQ/covalent-braket-plugin/issues/71)      | [#72](https://github.com/AgnostiqHQ/covalent-braket-plugin/pull/73) |
-| [Add test suite for examples directory](https://github.com/unitaryfund/metriq-client/issues/71)      | [#76](https://github.com/unitaryfund/metriq-client/pull/76) |
 | [Tests: mock tests for cloud devices](https://github.com/qiskit-community/qiskit-braket-provider/issues/19)      | [#107](https://github.com/qiskit-community/qiskit-braket-provider/pull/107) |
+| [Highlight executor args/kwargs in the docs](https://github.com/AgnostiqHQ/covalent/issues/1637)      | [#1680](https://github.com/AgnostiqHQ/covalent/pull/1680), [#46](https://github.com/AgnostiqHQ/covalent-ec2-plugin/pull/46), [#68](https://github.com/AgnostiqHQ/covalent-slurm-plugin/pull/68), [#72](https://github.com/AgnostiqHQ/covalent-braket-plugin/pull/72), [#77](https://github.com/AgnostiqHQ/covalent-awsbatch-plugin/pull/77)  |
+| [Add test suite for examples directory](https://github.com/unitaryfund/metriq-client/issues/71)      | [#76](https://github.com/unitaryfund/metriq-client/pull/76) |
 | [Add examples for missing submission endpoints](https://github.com/unitaryfund/metriq-client/issues/72)      | [#74](https://github.com/unitaryfund/metriq-client/pull/74) |
 | [Adding code documentation](https://github.com/scqubits/scqubits/issues/186)      | [#189](https://github.com/scqubits/scqubits/pull/189) |
 
