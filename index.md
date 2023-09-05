@@ -5,6 +5,7 @@
 Welcome to the summary page of UnitaryHack and QHack contributions. Here you will find a list of issues, pull requests, and prizes related to various quantum computing projects. Feel free to explore the links below!
 
 ### [UnitaryHack 2023 bounties](https://unitaryhack.dev/hackers/wingcode/) 1st place
+
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
 | [Enable (some) transpilation with Braket](https://github.com/qiskit-community/qiskit-braket-provider/issues/91)      | [#108](https://github.com/qiskit-community/qiskit-braket-provider/pull/108) |
