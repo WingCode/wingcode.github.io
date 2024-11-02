@@ -1,10 +1,23 @@
 <link rel="stylesheet" href="css/style.css">
 
-# UnitaryHack and QHack Contributions
+# Quantum Computing Contributions
 
 Welcome to the summary page of UnitaryHack and QHack contributions. Here you will find a list of issues, pull requests, and prizes related to various quantum computing projects. Feel free to explore the links below!
 
-### [UnitaryHack 2023 bounties](https://unitaryhack.dev/hackers/wingcode/) 1st place
+### [UnitaryHack 2024 bounties](https://unitaryhack.dev/leaderboard/) 2nd place
+
+| Issue                                                         | Pull Request                                           | 
+| -------------                                                 |:-------------:                                         |
+| [Improve unit test coverage to 100%](https://github.com/qiskit-community/qiskit-braket-provider/issues/177)      | [#179](https://github.com/qiskit-community/qiskit-braket-provider/pull/179) |
+| [Improve documentation on Batch tasks.](https://github.com/QuEraComputing/bloqade-python/issues/741)      | [#963](https://github.com/QuEraComputing/bloqade-python/pull/963) |
+| [Feature request: support for loading pickled results from Hybrid Jobs](https://github.com/amazon-braket/Braket.jl/issues/18)      | [#88](https://github.com/amazon-braket/Braket.jl/pull/88) |
+| [Print noisy circuit when a Braket noise model is applied to PL device with parallel=True](https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python/issues/255)      | [#260](https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python/pull/260) |
+| [Organize Documentation Examples](https://github.com/NVIDIA/cuda-quantum/issues/1624)      | [#1724](https://github.com/NVIDIA/cuda-quantum/pull/1724) |
+| [Prepopulate result dates in "Add Submission" workflow](https://github.com/unitaryfund/metriq-app/issues/880)      | [#917](https://github.com/unitaryfund/metriq-app/pull/917) |
+| [Metriq freezes from mobile browser](https://github.com/unitaryfund/metriq-app/issues/851)      | [#916](https://github.com/unitaryfund/metriq-app/pull/916) |
+| [Support non-contiguous qubit indices](https://github.com/amazon-braket/amazon-braket-default-simulator-python/issues/252)      | [#262](https://github.com/amazon-braket/amazon-braket-default-simulator-python/pull/262) |
+
+### [UnitaryHack 2023 bounties](https://2023.unitaryhack.dev/leaderboard/) 1st place
 
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
