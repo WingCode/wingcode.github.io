@@ -4,7 +4,24 @@
 
 Welcome to the summary page of UnitaryHack and QHack contributions. Here you will find a list of issues, pull requests, and prizes related to various quantum computing projects. Feel free to explore the links below!
 
-### [UnitaryHack 2024 bounties](https://unitaryhack.dev/leaderboard/) 2nd place
+### [UnitaryHack 2025 bounties](https://unitaryhack.dev/hackers/wingcode) 2nd place
+
+| Issue                                                         | Pull Request                                           |
+| -------------                                                 |:-------------:                                         |
+| [Add user profile page](https://github.com/unitaryfoundation/metriq-app/issues/188) | [#1009](https://github.com/unitaryfoundation/metriq-app/pull/1009) |
+| [List of followed task](https://github.com/unitaryfoundation/metriq-app/issues/1005) | [#1005](https://github.com/unitaryfoundation/metriq-app/issues/1005) |
+| [Verify logical equivalence of large compiled circuits](https://github.com/unitaryfoundation/ucc/issues/62) | [#62](https://github.com/unitaryfoundation/ucc/issues/62#issuecomment-2985908821)  |
+| [Validate circuit properties as part of benchmarking runs](https://github.com/unitaryfoundation/ucc-bench/issues/27) | [#65](https://github.com/unitaryfoundation/ucc-bench/pull/65)  |
+| [Tagging noise operations clutters the circuit output](https://github.com/quantumlib/Cirq/issues/2905) | [#7425](https://github.com/quantumlib/Cirq/pull/7425) |
+| [StateVector Zero Constructor needs radixes to be passed in](https://github.com/BQSKit/bqskit/issues/305) |[#324](https://github.com/BQSKit/bqskit/pull/324)  |
+| [Add OpenMP Support to Union-Find Decoder](https://github.com/quantumgizmos/ldpc/issues/73) | [#73](https://github.com/quantumgizmos/ldpc/issues/73) |
+| [Method for particle number detection probabilities with occupation numbers in the fermionic package](https://github.com/Budapest-Quantum-Computing-Group/piquasso/issues/435) | [#445](https://github.com/Budapest-Quantum-Computing-Group/piquasso/pull/445) |
+| [Enhance documentation](https://github.com/TeamGraphix/graphix/issues/226) | [#287](https://github.com/TeamGraphix/graphix/pull/287) |
+| [NoiseModels are not serializable](https://github.com/quantumlib/Cirq/issues/3846) |[#7396](https://github.com/quantumlib/Cirq/pull/7396)  |
+
+
+
+### [UnitaryHack 2024 bounties](https://2024.unitaryhack.dev/leaderboard/) 2nd place
 
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
