@@ -2,7 +2,7 @@
 
 # Quantum Computing Contributions
 
-Welcome to the summary page of UnitaryHack and QHack contributions. Here you will find a list of issues, pull requests, and prizes related to various quantum computing projects. Feel free to explore the links below!
+Welcome to the summary page of my Quantum Computing contributions. Here you will find a list of issues, pull requests, and prizes related to various quantum computing projects. Feel free to explore the links below!
 
 ### [UnitaryHack 2025 bounties](https://unitaryhack.dev/hackers/wingcode) 2nd place
 
