@@ -1,5 +1,9 @@
 <link rel="stylesheet" href="css/style.css">
 
+# Top 1% engineers globally
+
+<img src="https://algora.io/og/user/WingCode" alt="WingCode logo" class="profile-img" />
+
 # Quantum Computing Contributions
 
 Welcome to the summary page of my Quantum Computing contributions. Here you will find a list of issues, pull requests, and prizes related to various quantum computing projects. Feel free to explore the links below!
