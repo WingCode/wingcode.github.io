@@ -46,9 +46,3 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
-.profile-img {
-    background-color: #fff;
-    display: block;
-    margin: 0 auto 20px;
-}
