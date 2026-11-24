@@ -8,7 +8,7 @@
 
 Welcome to the summary page of my Quantum Computing contributions. Here you will find a list of issues, pull requests, and prizes related to various quantum computing projects. Feel free to explore the links below!
 
-### [UnitaryHack 2025 bounties](https://unitaryhack.dev/hackers/wingcode) 2nd place
+### [UnitaryHack 2025 bounties](https://2025.unitaryhack.dev/leaderboard/) 2nd place
 
 | Issue                                                         | Pull Request                                           |
 | -------------                                                 |:-------------:                                         |
@@ -55,7 +55,7 @@ Welcome to the summary page of my Quantum Computing contributions. Here you will
 | [Adding code documentation](https://github.com/scqubits/scqubits/issues/186)      | [#189](https://github.com/scqubits/scqubits/pull/189) |
 
 
-### [UnitaryHack 2022 bounties](https://unitaryhack.dev/bounties/) 1st place
+### [UnitaryHack 2022 bounties](https://2022.unitaryhack.dev/results/) 1st place
 
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
